@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+        font-family: 'Baloo Bhai 2', cursive;
+}
+.form-control{
+        width: 30%;
+}
+.center{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+}
+.Footer{
+       margin-top: 23px;
+       color: navy;
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+       justify-content: center;
+}
